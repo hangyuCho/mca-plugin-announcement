@@ -1,0 +1,24 @@
+{
+  "type": "container",
+  "properties": {
+    "padding": {"all": 16},
+    "color": "#FFFBEA"
+  },
+  "child": {
+    "type": "column",
+    "properties": { "crossAxisAlignment": "start" },
+    "children": [
+      {
+        "type": "text",
+        "data": "📢 시스템 점검 안내 (1/13)",
+        "properties": {
+          "style": { "fontWeight": "bold", "fontSize": 18 }
+        }
+      },
+      {
+        "type": "text",
+        "data": "오늘 오전 2시부터 3시까지 서비스 개선을 위한 점검이 진행됩니다. 이용에 참고 부탁드립니다."
+      }
+    ]
+  }
+}
