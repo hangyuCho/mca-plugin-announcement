@@ -2,7 +2,7 @@
   "type": "container",
   "properties": {
     "padding": {"all": 16},
-    "color": "#FFFBEA"
+    "color": "#000000"
   },
   "child": {
     "type": "column",
